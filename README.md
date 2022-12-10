@@ -1,0 +1,5 @@
+- 👋 Hi, I’m linsikai
+- 👀 I’m interested in play something interesting
+- 🌱 I’m currently learning kafka
+- 💞️ I’m looking to collaborate on study
+- 📫 How to reach me: email: 673052752@qq.com
